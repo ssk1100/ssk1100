@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">My software never has bugs. It just develops random features. 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssk1100&label=Profile%20views&color=0e75b6&style=flat" alt="ssk1100" /> </p>
 
